@@ -1,0 +1,74 @@
+www.xyz.edu.in
+www=world wide wep
+1) generic type 2) country type
+.com= for commercial organisation
+.net=for internet service provider
+.org=fpr other organisation(non_profit)
+
+.edu=for educational organisation
+.gov=for government organisation
+
+2).in=india
+.au australia
+.fr  france
+uk united kingdom
+
+
+
+HTML stands for Hyper Text Markup Language.
+we can define the appearance and layout of a website. It was developed in 1990 by "tim Berners lee".
+
+analogy of website
+HTML= car body(only metal)
+css= car paint
+js= car engine
+
+
+
+
+A basic HTML page
+
+
+
+<!Doctype HTML> // specifies this is an html 5 document
+<html> // Root of the html page
+<head> // contains page metadata
+<title> // contain title </title>
+</head>
+<body> // the main body of the page (rendered by the browser)
+<h1> // this is a first heading tag </h1>
+.... <h6> </h6>
+<p> // this a paragraph tag </p>
+</body>
+</html> 
+
+
+
+camel case:
+myVariable
+each word, except the first start with a captial letter.
+
+pascal case:
+
+MyVariable 
+each word start with captial letter
+
+snake case:
+my_variable_name
+
+each word is separated by an underscore character.
+
+//unorder list
+value	Efftects
+circle	Hollow round bullet
+disc	solid round bullet
+square	solid square bullet
+
+//order list
+value	Efftects	
+A	The list items are numbered in uppercase English alphabets like A,B,C,D
+a	The list items are numbered in lowercase English alphabets like a,b,c,d
+I	The list items are numbered in uppercase Roman Numercals like I,II,III,IV
+i	The list items are numbered in lowercase Roman Numercals like i,ii,iii,iv
+1	The list items are numbered in Arabic numercals like 1,2,3,4
+
