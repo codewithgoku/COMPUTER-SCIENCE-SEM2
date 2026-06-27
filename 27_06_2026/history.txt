@@ -1,0 +1,17 @@
+c developed by AT&T's Bell laboratories is USA in 1972. and design by Dennis Ritchie.
+
+programming langauge are two types 
+1) high level langauge (ex. c, c++ c#, java, fhoton) this langauge required to compile a machine langauge
+2) low level langauge (assamble langauge,)
+
+What is programming?
+ans-  computer programming  is a medium for us to communicate with computers just like we use hindi, bengali, english to communicate with each other, programming is a way for us to deliver our instructions to the computer.
+
+what is c?
+ans- c is programming langauge. C is one the oldest and first programming langauge. and also c is Mother all programming langauge.
+
+use of C
+ans- (1) Major parts of windows, linus and other operating system are written in c.
+     (2) C is used to write driver programs for devices like tablets, printers etx.
+     (3) c langauge is used to program embedded systems while programs need to run faster in limited memory.
+     (4) C is used to develop games, an area where latency is very important. computer has to react quickly an user input.
